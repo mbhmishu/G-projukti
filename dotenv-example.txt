@@ -1,0 +1,4 @@
+SECRET_KEY=django-insecure-qxpsl@3^cr-4zw2t=n%kx!dv2*hu1(5%brdol(o@hx=z+37$up
+DEBUG=True
+
+# note : please create .env file . this file is created for example
